@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 1st in 1st branch
+=======
+1 in 2nd
+>>>>>>> 2
